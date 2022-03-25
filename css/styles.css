@@ -1,0 +1,60 @@
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #3F72AF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #3F72AF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #112D4E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #112D4E;
+}
+
+.top-container {
+  background-color: #DBE2EF;
+  padding-top: 100px;
+  position: relative;
+}
+
+/* .middle-container {}
+
+.bottom-container {} */
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 450px;
+  top: 450px;
+}
+
+.goalimg, .codinggif {
+  width: 20%;
+  height: 20%;
+}
+
+.profileimg {
+  width: 10%;
+  height: 10%;
+}
