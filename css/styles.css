@@ -45,12 +45,14 @@ a {
 .bottom-container {
   background-color: #DBE2EF;
   height: 150px;
-  padding-top: 50px;
   line-height: 2;
+  padding-top: 50px;
 }
-.skills{
+
+.skills {
   margin-top: 50px;
 }
+
 .contact-me {
   line-height: 2;
   margin: 70px auto 70px auto;
@@ -86,20 +88,19 @@ a {
 .profileimg {
   width: 20%;
 }
-.selfintroduce{
+
+.selfintroduce {
   line-height: 2;
-  width: 450px;
   margin: 0 auto 0 auto;
+  width: 450px;
 }
+
 .skill-row {
   margin: 70px auto 150px auto;
   text-align: left;
   width: 50%;
 }
 
-/* .skill-row:nth-of-type(2) {
-  height: 200px;
-} */
 .skill-desc-1 {
   /* clear: left; */
   line-height: 2;
@@ -119,12 +120,14 @@ hr {
 }
 
 .profile {
-  width: 50%;
   margin: 70px auto 70px auto;
+  width: 50%;
 }
-.agree{
+
+.agree {
   margin-bottom: 50px;
 }
+
 .btn {
   background: #3498db;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
